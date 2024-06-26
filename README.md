@@ -20,7 +20,7 @@ Stock sentiment analysis using machine learning techniques involves analyzing te
 
 
 <h2>Work Flow</h2>
- 1.  Data Collection:
+1.  Data Collection:
 Obtaining textual data from various sources such as financial news websites (Yahoo Finance, Business Insider), social media platforms and financial blogs.
 Historical stock price data can also be collected.
 
@@ -40,17 +40,16 @@ Train the chosen machine learning model on the training set and evaluate its per
 
 <h2>Comprehensive Information On How Data Was Collected</h2>
 An extensive analysis was done by me on how to scrape financial and news data from websites. 
-
+<br>
 Steps for web scraping data:-
-
-Identify Target Websites
-I used Business Insider (https://www.businessinsider.in/) to scrape news data and external API of Yahoo Finance to scrape stock price data.
-Understand Website Structure
-Choose a Web Scraping Tool or Library: Using libraries like BeautifulSoup to scrape data.
-Write the Scraping Code
-Handle Pagination and Dynamic Content
-Data Cleaning and Preprocessing
-Store Data: I stored data in form of csv file.
+<br>
+1. Identify Target Websites: I used Business Insider (https://www.businessinsider.in/) to scrape news data and external API of Yahoo Finance to scrape stock price data.<br>
+2. Understand Website Structure<br>
+3. Choose a Web Scraping Tool or Library: Using libraries like BeautifulSoup to scrape data.<br>
+4. Write the Scraping Code<br>
+5. Handle Pagination and Dynamic Content<br>
+6. Data Cleaning and Preprocessing<br>
+7. Store Data: I stored data in form of csv file.
 
 
 <h2>Elaborating Sentiment Analysis</h2>
@@ -62,9 +61,9 @@ The effectiveness and consistency of sentiment analysis can be significantly inf
 
 
 <h2>References Used</h2>
-Algo Trading using Python - Refer to free code camp.
-Basic Blog for Sentiment Analysis overview -   https://blog.quantinsti.com/sentiment-analysis-trading/
-Example of a model for analysis - Stock Market Sentiment Analysis Using Python & Machine Learning
+1.Algo Trading using Python - Refer to free code camp.
+<br>2.Basic Blog for Sentiment Analysis overview -   https://blog.quantinsti.com/sentiment-analysis-trading/
+<br>3.Example of a model for analysis - Stock Market Sentiment Analysis Using Python & Machine Learning
 
 
 <h2>Author</h2>
